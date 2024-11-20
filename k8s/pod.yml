@@ -7,4 +7,4 @@ spec:
   - name: 2048-container
     image: blackbird/2048
     ports:
-    - containerPort:
+    - containerPort: 80
